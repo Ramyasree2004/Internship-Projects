@@ -47,18 +47,6 @@ This repository contains all the tasks and projects completed during my Data Ana
 
 ---
 
-## 📌 How to Navigate
-
-Each project is in its own folder:
-Internship-Projects\
-├── HR Analysis
-├── Sentiment Dashboard
-├── Retail Analysis
-
-> Click into any folder to explore Jupyter notebooks, dashboards, and SQL scripts.
-
----
-
 ## 📬 Contact
 
 📧 tundalamramyasree@gmail.com  
