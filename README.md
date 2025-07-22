@@ -50,6 +50,7 @@ This repository contains all the tasks and projects completed during my Data Ana
 ## 📌 How to Navigate
 
 Each project is in its own folder:
+Internship-Projects\
 ├── HR Analysis
 ├── Sentiment Dashboard
 ├── Retail Analysis
